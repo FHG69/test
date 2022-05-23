@@ -1,4 +1,8 @@
 @charset "UTF-8";
+td, th {
+  width: 40px;
+}
+
 /*!
  * Bootstrap v5.2.0-beta1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
